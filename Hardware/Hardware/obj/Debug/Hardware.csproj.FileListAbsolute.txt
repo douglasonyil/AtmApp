@@ -1,0 +1,9 @@
+C:\Users\ADMIN\Desktop\AtmApp\Hardware\Hardware\bin\Debug\Hardware.exe.config
+C:\Users\ADMIN\Desktop\AtmApp\Hardware\Hardware\bin\Debug\Hardware.exe
+C:\Users\ADMIN\Desktop\AtmApp\Hardware\Hardware\bin\Debug\Hardware.pdb
+C:\Users\ADMIN\Desktop\AtmApp\Hardware\Hardware\obj\Debug\Hardware.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\AtmApp\Hardware\Hardware\obj\Debug\Hardware.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\AtmApp\Hardware\Hardware\obj\Debug\Hardware.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\AtmApp\Hardware\Hardware\obj\Debug\Hardware.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\AtmApp\Hardware\Hardware\obj\Debug\Hardware.exe
+C:\Users\ADMIN\Desktop\AtmApp\Hardware\Hardware\obj\Debug\Hardware.pdb

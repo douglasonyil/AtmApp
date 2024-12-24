@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\AtmApp\ATMApp\ATMApp\bin\Debug\net8.0\ATMApp.exe
+C:\Users\ADMIN\Desktop\AtmApp\ATMApp\ATMApp\bin\Debug\net8.0\ATMApp.deps.json
+C:\Users\ADMIN\Desktop\AtmApp\ATMApp\ATMApp\bin\Debug\net8.0\ATMApp.runtimeconfig.json
+C:\Users\ADMIN\Desktop\AtmApp\ATMApp\ATMApp\bin\Debug\net8.0\ATMApp.dll
+C:\Users\ADMIN\Desktop\AtmApp\ATMApp\ATMApp\bin\Debug\net8.0\ATMApp.pdb
+C:\Users\ADMIN\Desktop\AtmApp\ATMApp\ATMApp\obj\Debug\net8.0\ATMApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\AtmApp\ATMApp\ATMApp\obj\Debug\net8.0\ATMApp.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\AtmApp\ATMApp\ATMApp\obj\Debug\net8.0\ATMApp.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\AtmApp\ATMApp\ATMApp\obj\Debug\net8.0\ATMApp.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\AtmApp\ATMApp\ATMApp\obj\Debug\net8.0\ATMApp.dll
+C:\Users\ADMIN\Desktop\AtmApp\ATMApp\ATMApp\obj\Debug\net8.0\refint\ATMApp.dll
+C:\Users\ADMIN\Desktop\AtmApp\ATMApp\ATMApp\obj\Debug\net8.0\ATMApp.pdb
+C:\Users\ADMIN\Desktop\AtmApp\ATMApp\ATMApp\obj\Debug\net8.0\ATMApp.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\AtmApp\ATMApp\ATMApp\obj\Debug\net8.0\ref\ATMApp.dll

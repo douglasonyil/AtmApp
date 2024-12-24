@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\AtmApp\\ATMApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D09A0CF4-183D-4C92-95DD-041E1FE46A6F}|ATMApp\\ATMApp.csproj|c:\\users\\admin\\desktop\\atmapp\\atmapp\\atmapp\\app\\atmapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09A0CF4-183D-4C92-95DD-041E1FE46A6F}|ATMApp\\ATMApp.csproj|solutionrelative:atmapp\\app\\atmapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09A0CF4-183D-4C92-95DD-041E1FE46A6F}|ATMApp\\ATMApp.csproj|c:\\users\\admin\\desktop\\atmapp\\atmapp\\atmapp\\app\\entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09A0CF4-183D-4C92-95DD-041E1FE46A6F}|ATMApp\\ATMApp.csproj|solutionrelative:atmapp\\app\\entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09A0CF4-183D-4C92-95DD-041E1FE46A6F}|ATMApp\\ATMApp.csproj|c:\\users\\admin\\desktop\\atmapp\\atmapp\\atmapp\\ui\\appscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09A0CF4-183D-4C92-95DD-041E1FE46A6F}|ATMApp\\ATMApp.csproj|solutionrelative:atmapp\\ui\\appscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09A0CF4-183D-4C92-95DD-041E1FE46A6F}|ATMApp\\ATMApp.csproj|c:\\users\\admin\\desktop\\atmapp\\atmapp\\atmapp\\ui\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09A0CF4-183D-4C92-95DD-041E1FE46A6F}|ATMApp\\ATMApp.csproj|solutionrelative:atmapp\\ui\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09A0CF4-183D-4C92-95DD-041E1FE46A6F}|ATMApp\\ATMApp.csproj|c:\\users\\admin\\desktop\\atmapp\\atmapp\\atmapp\\ui\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09A0CF4-183D-4C92-95DD-041E1FE46A6F}|ATMApp\\ATMApp.csproj|solutionrelative:atmapp\\ui\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09A0CF4-183D-4C92-95DD-041E1FE46A6F}|ATMApp\\ATMApp.csproj|c:\\users\\admin\\desktop\\atmapp\\atmapp\\atmapp\\domain\\entities\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09A0CF4-183D-4C92-95DD-041E1FE46A6F}|ATMApp\\ATMApp.csproj|solutionrelative:atmapp\\domain\\entities\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09A0CF4-183D-4C92-95DD-041E1FE46A6F}|ATMApp\\ATMApp.csproj|c:\\users\\admin\\desktop\\atmapp\\atmapp\\atmapp\\domain\\interfaces\\iuserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09A0CF4-183D-4C92-95DD-041E1FE46A6F}|ATMApp\\ATMApp.csproj|solutionrelative:atmapp\\domain\\interfaces\\iuserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09A0CF4-183D-4C92-95DD-041E1FE46A6F}|ATMApp\\ATMApp.csproj|c:\\users\\admin\\desktop\\atmapp\\atmapp\\atmapp\\atmapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D09A0CF4-183D-4C92-95DD-041E1FE46A6F}|ATMApp\\ATMApp.csproj|solutionrelative:atmapp\\atmapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ATMApp.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\AtmApp\\ATMApp\\ATMApp\\App\\ATMApp.cs",
+              "RelativeDocumentMoniker": "ATMApp\\App\\ATMApp.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\AtmApp\\ATMApp\\ATMApp\\App\\ATMApp.cs",
+              "RelativeToolTip": "ATMApp\\App\\ATMApp.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:42:42.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Entry.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\AtmApp\\ATMApp\\ATMApp\\App\\Entry.cs",
+              "RelativeDocumentMoniker": "ATMApp\\App\\Entry.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\AtmApp\\ATMApp\\ATMApp\\App\\Entry.cs",
+              "RelativeToolTip": "ATMApp\\App\\Entry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T00:12:58.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\AtmApp\\ATMApp\\ATMApp\\Domain\\Interfaces\\IUserLogin.cs",
+              "RelativeDocumentMoniker": "ATMApp\\Domain\\Interfaces\\IUserLogin.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\AtmApp\\ATMApp\\ATMApp\\Domain\\Interfaces\\IUserLogin.cs",
+              "RelativeToolTip": "ATMApp\\Domain\\Interfaces\\IUserLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T00:34:16.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserAccount.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\AtmApp\\ATMApp\\ATMApp\\Domain\\Entities\\UserAccount.cs",
+              "RelativeDocumentMoniker": "ATMApp\\Domain\\Entities\\UserAccount.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\AtmApp\\ATMApp\\ATMApp\\Domain\\Entities\\UserAccount.cs",
+              "RelativeToolTip": "ATMApp\\Domain\\Entities\\UserAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T22:27:06.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\AtmApp\\ATMApp\\ATMApp\\UI\\Validator.cs",
+              "RelativeDocumentMoniker": "ATMApp\\UI\\Validator.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\AtmApp\\ATMApp\\ATMApp\\UI\\Validator.cs",
+              "RelativeToolTip": "ATMApp\\UI\\Validator.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:35:33.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\AtmApp\\ATMApp\\ATMApp\\UI\\Utility.cs",
+              "RelativeDocumentMoniker": "ATMApp\\UI\\Utility.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\AtmApp\\ATMApp\\ATMApp\\UI\\Utility.cs",
+              "RelativeToolTip": "ATMApp\\UI\\Utility.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAE8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:29:45.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppScreen.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\AtmApp\\ATMApp\\ATMApp\\UI\\AppScreen.cs",
+              "RelativeDocumentMoniker": "ATMApp\\UI\\AppScreen.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\AtmApp\\ATMApp\\ATMApp\\UI\\AppScreen.cs",
+              "RelativeToolTip": "ATMApp\\UI\\AppScreen.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAC4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:16:51.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ATMApp.csproj",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\AtmApp\\ATMApp\\ATMApp\\ATMApp.csproj",
+              "RelativeDocumentMoniker": "ATMApp\\ATMApp.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\AtmApp\\ATMApp\\ATMApp\\ATMApp.csproj",
+              "RelativeToolTip": "ATMApp\\ATMApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-16T15:13:09.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
